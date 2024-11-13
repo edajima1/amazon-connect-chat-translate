@@ -7,7 +7,7 @@
 		"@aws-amplify/core": "6.0.23",
 		"@aws-amplify/predictions": "6.0.23",
 		"@aws-amplify/storage": "6.0.23",
-		"@aws-amplify/ui-react": "6.0.23",
+		"@aws-amplify/ui-react": "6.5.5",
 		"@babel/core": "7.24.3",
 		"@babel/plugin-syntax-flow": "^7.24.1",
 		"@babel/plugin-transform-react-jsx": "^7.23.4",
@@ -85,7 +85,7 @@
 		"@aws-amplify/core": "6.0.23",
 		"@aws-amplify/auth": "6.0.23",
 		"@aws-amplify/predictions": "6.0.23",
-		"@aws-amplify/ui-react": "6.0.23",
+		"@aws-amplify/ui-react": "6.5.5",
 		"aws-amplify": "6.0.23",
 		"@babel/plugin-proposal-private-property-in-object": "^7.21.11"
 	},
@@ -103,7 +103,7 @@
 		"@aws-amplify/core": "6.0.23",
 		"@aws-amplify/auth": "6.0.23",
 		"@aws-amplify/predictions": "6.0.23",
-		"@aws-amplify/ui-react": "6.0.23",
+		"@aws-amplify/ui-react": "6.5.5",
 		"aws-amplify": "6.0.23",
 		"typescript": "^5.4.3"
 	}
