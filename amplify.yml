@@ -15,6 +15,7 @@ frontend:
       commands:
         - REACT_APP_CONNECT_REGION=${REACT_APP_CONNECT_REGION}
         - REACT_APP_CONNECT_INSTANCE_ID=${REACT_APP_CONNECT_INSTANCE_ID}
+        - npx update-browserslist-db@latest
         - yarn run build
   artifacts:
     baseDirectory: build
